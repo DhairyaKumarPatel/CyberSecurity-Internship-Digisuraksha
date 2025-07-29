@@ -1,41 +1,68 @@
 # 🛡️ Cybersecurity Internship Program 2025
 
 [![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
-[![Educational Content](https://img.shields.io/badge/Content-Educational-blue.svg)](https://github.com/DhairyaKumarPatel/CyberSecurity-Internship-Digisuraksha)
+[![Educational Content](https://img.shields.io/badge/Content-Educational-blue.svg)](https://github.com/DhairyaKumarPatel/Cybersecurity-Internship-Program-2025)
 
-This repository documents my 8-week cybersecurity internship program under the mentorship of **Digisuraksha Parahi Foundation**. It contains hands-on exercises, reports, and learning materials from various cybersecurity domains.
+This repository contains my cybersecurity internship documentation and assignments under the mentorship of **Digisuraksha Parahi Foundation**. It showcases practical learning in various cybersecurity domains through hands-on exercises and real-world scenarios.
 
 ## 📁 Repository Structure
 
 ```
-📂 Attendance/                    # Attendance tracking and session flags
-📂 Week-1_MITRE-TTP-Mapping/      # MITRE ATT&CK framework and threat mapping
-📂 Week-2_Malware-IOC-APT28/      # Malware analysis and APT28 case study
-📂 Week-3_Linux-Privesc/          # Linux privilege escalation techniques
-📂 Week-4_OSINT-Recon/            # Open Source Intelligence gathering
-📂 Week-5_Web-Exploits/           # Web application security testing
-📂 Week-6_VulnVMs/                # Vulnerable VM penetration testing
-📂 Week-7_Log-IR/                 # Log analysis and incident response
-📂 Week-8_Finalization/           # Final reports and documentation
+├── 📂 Orientation/                # Program introduction and initial setup
+├── 📂 Attendance/                 # Weekly session participation tracking
+│   ├── Week-1/                   # Session flags and screenshots  
+│   └── Week-2/                   # Continued attendance proof
+├── 📂 Week-1_Assignment/          # Digital Forensics & Malware Analysis
+│   ├── Digital Forensics/        # Forensic investigation exercises
+│   └── Malware Analysis/         # Malware detection and analysis
+├── 📂 Week-2_Assignment/          # Second week cybersecurity tasks
+├── 📂 Week-3_Assignment/          # Third week assignments
+├── 📂 Week-4_Assignment/          # Fourth week challenges
+├── 📂 Week-5_Assignment/          # Fifth week exercises
+├── 📂 Week-6_Assignment/          # Sixth week projects
+├── 📂 Week-7_Assignment/          # Seventh week tasks
+├── 📂 Week-8_Assignment/          # Final week assignments
+└── 📂 Final Project/              # Capstone project work
 ```
 
-## 🎯 Learning Areas Covered
+## 🎯 Learning Objectives
 
-- **Threat Intelligence** - MITRE ATT&CK mapping, IOC analysis
-- **Malware Analysis** - APT28 case study, YARA rules
-- **Penetration Testing** - Linux privilege escalation, vulnerable VMs
-- **Web Security** - SQL injection, XSS, SSRF testing
-- **OSINT** - Passive reconnaissance, metadata analysis
-- **Incident Response** - Log analysis, threat hunting
+- **Digital Forensics** - Evidence collection and analysis techniques
+- **Malware Analysis** - Threat detection and reverse engineering
+- **Incident Response** - Security breach investigation procedures
+- **Penetration Testing** - Vulnerability assessment and exploitation
+- **Security Documentation** - Professional reporting and communication
 
-## 🛠️ Tools Used
+## 📚 Program Overview
 
-- MISP, YARA, Burp Suite, Kali Linux
-- Graylog, HybridAnalysis, PortSwigger Labs
-- Various CTF platforms and vulnerable machines
+- **Duration:** 8 Weeks intensive program
+- **Organization:** Digisuraksha Parahi Foundation
+- **Format:** Practical assignments with real-world scenarios
+- **Goal:** Build comprehensive cybersecurity skills
+
+## ✅ Progress Tracker
+
+| Week | Topic | Status |
+|------|--------|--------|
+| Week 1 | Digital Forensics & Malware Analysis | ✅ Completed |
+| Week 2 | Security Assessment | 🔄 In Progress |
+| Week 3 | Network Security | ⏳ Pending |
+| Week 4 | Web Security | ⏳ Pending |
+| Week 5 | Incident Response | ⏳ Pending |
+| Week 6 | Penetration Testing | ⏳ Pending |
+| Week 7 | Advanced Threats | ⏳ Pending |
+| Week 8 | Final Assessment | ⏳ Pending |
+
+## 🛠️ Tools & Technologies
+
+- **Analysis Tools:** Various forensic and malware analysis platforms
+- **Security Frameworks:** Industry-standard methodologies
+- **Documentation:** Markdown, Git, professional reporting tools
 
 ---
 
-**Author:** Dhairya Kumar Patel  
-**Program:** Digisuraksha Parahi Foundation Cybersecurity Internship  
-**Duration:** 8 Weeks (2025)
+**Student:** Dhairya Kumar Patel  
+**Program:** Cybersecurity Internship 2025  
+**Institution:** Digisuraksha Parahi Foundation
+
+> This repository serves as both a learning log and a portfolio demonstrating practical cybersecurity skills development.
